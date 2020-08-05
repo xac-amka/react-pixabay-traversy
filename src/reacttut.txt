@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=XuFDcZABiDQ - Build an Expense Tracker | React Hooks & Context API
+https://www.youtube.com/watch?v=v0t42xBIYIs - React & Express Starter Pack For Full Stack Development
+https://www.youtube.com/watch?v=deyxI-6C2u4 - React & Webpack 4 From Scratch - No CLI
+https://www.youtube.com/watch?v=gk_6BKiy6X4 - React Infinite Scroll Challenge | Scotch.io
+https://www.youtube.com/watch?v=b6Oe2puTdMQ - React File Uploader With Express (Using React Hooks)
+https://www.youtube.com/watch?v=dzOrUmK4Qyw - React & Material UI Project Using The PixaBay API
+https://www.youtube.com/watch?v=A71aqufiNtQ - React JS Crash Course [old]
+https://www.youtube.com/watch?v=pgAvVxowaYU - ReactJS Tutorial for Beginners - Getting Started with React
+https://www.youtube.com/watch?v=mxK8b99iJTg - Introducing React Hooks
+https://www.youtube.com/watch?v=DLX62G4lc44 - Learn React JS - Full Course for Beginners - Tutorial 2019
+https://www.youtube.com/watch?v=poQXNp9ItL4 - Redux Tutorial - Learn Redux from Scratch
+https://www.youtube.com/watch?v=NU_1StN5Tkk - Design Patterns in Plain English | Mosh Hamedani
+https://www.youtube.com/watch?v=0-S5a0eXPoc - React Native Tutorial for Beginners - Build a React Native App [2020]
+https://www.youtube.com/watch?v=Ke90Tje7VS0 - React Tutorial for Beginners [React js]
+https://www.youtube.com/watch?v=U9T6YkEDkMo - Build a Recipe App With React | React Tutorial For Beginners
+https://www.youtube.com/watch?v=NCwa_xi0Uuc - ES6 Tutorial: Learn Modern JavaScript in 1 Hour
+https://www.youtube.com/watch?v=iWUR04B42Hc - Use Babel & Webpack To Compile ES2015 - ES2017
+
